@@ -1,0 +1,5130 @@
+fileFormatVersion: 2
+guid: b03ec3585ee77bf4e97e27adecef1ce6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7453
+        width: 107
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97edc3a6f8c360e478d26a8742eec5ad
+      internalID: -298064699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 7453
+        width: 107
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d312eeccd69a4da63afc334d0b2fd
+      internalID: 1463463868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7453
+        width: 107
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6079324bf37ad9a478c45b92905c2c7f
+      internalID: 423610235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7453
+        width: 109
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89603b8c76f2bbd4e918042200b81019
+      internalID: -1800438167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 7453
+        width: 110
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca81dc74c777b244934f0a53378c19d
+      internalID: -242297695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 7453
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a814c98d3cb5feb4a87d2df7694aa2ef
+      internalID: -532964339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 7453
+        width: 114
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a727aeaa0f40ae479cdc1c1888b1b66
+      internalID: 1309002773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 7453
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce40c6475ec484b9e95c8e7ef8ced7
+      internalID: 1499747420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7295
+        width: 117
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76f05cf4d38d3498771eb7399e482b
+      internalID: 853841238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7295
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa21df3bf84d144eaee2696cc57b128
+      internalID: -322379395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7295
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f7f3e98c276a4f95ee0579451cd62
+      internalID: -438684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 7295
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e483ecaf095bb34fbefd3cc41d5f246
+      internalID: -628684552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 7295
+        width: 109
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313c7b6cde0f3043b3e052cb1f7bfe3
+      internalID: 1709373846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7295
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9611faf5f3d7ff6418556250feb0c5d3
+      internalID: -96912024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 7295
+        width: 109
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ae09d0d646b84b86ab959227acb0e
+      internalID: -1384377448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 7295
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b9979c839e0ef479b8e00281bae9f9
+      internalID: 1951412019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 7295
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f818f377403d344943c98b8858c67b
+      internalID: 563871019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7160
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c81faa4c1646498dccc77cbf8f38c
+      internalID: -1407365805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7160
+        width: 137
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69baa2d0928a1a84481b533d176de684
+      internalID: 1822964722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7160
+        width: 142
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b8902b01431845a0a769b6f78e9af
+      internalID: -105103881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6975
+        width: 131
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714f9fb3601d8c418b09e77a243f02f
+      internalID: -432633807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6975
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d5e8ee3073d2845bdee1a313f56833
+      internalID: -1419550937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6975
+        width: 150
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bdae252efb1884faaed4bb41737a89
+      internalID: -296597324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 6975
+        width: 151
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ac150006c5d8429c13ab69aa2c928
+      internalID: 1466540262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 6975
+        width: 153
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e08cff98bca74f8b16637dd61d287
+      internalID: 936747362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 6975
+        width: 151
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ce4ad65297bb49bebc39072f3b540
+      internalID: -485554606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 6975
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede227fd2a0ada949b1f4f4a99999d34
+      internalID: -1697420720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6842
+        width: 142
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb316fcc8e9514484e9a648487aac4
+      internalID: -1761488408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6842
+        width: 125
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c4526d80965e4dbbb7a3c10002395
+      internalID: 1209324215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6906
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf41346ef7193b54689e838f0a65a2b8
+      internalID: -423318610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6842
+        width: 151
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a96d2e8a15434b8b05b1cff9cc4ee
+      internalID: -1888304153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6842
+        width: 142
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0adca5c262bc488d3a35aab796756
+      internalID: -746388097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 6842
+        width: 151
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53fb2b1123d7749ac601cea86af37a
+      internalID: 446028104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 6842
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a069a6c670ed214186f3018cd0b0936
+      internalID: 116631459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6676
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5ccfb3e622209438b8573082d8a0ba
+      internalID: 1350150359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6676
+        width: 215
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff5ad4f26128f4696dd21abd219315
+      internalID: 1220684700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6676
+        width: 146
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f785e16257c3674987560e0aa31b2f8
+      internalID: 2105644901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6442
+        width: 162
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62280418f00371b41a2d41576732486e
+      internalID: 763694250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 6442
+        width: 163
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c1a51a1ba9a3841a95f4a42798ff95
+      internalID: 1793943493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 6442
+        width: 110
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed06028f6f51d6f48bb2a94e4a11c249
+      internalID: 986097676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 6587
+        width: 111
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d93d2e54112de41b215ef25984b2d6
+      internalID: 954494757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 6442
+        width: 110
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a552af377022438dd58476f205267
+      internalID: -2005831526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6442
+        width: 157
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb141da255f02042b7367de631ce891
+      internalID: 1097261632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 6442
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a25624a3bb494f8fa7f344b09b99f
+      internalID: -350219358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 6442
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b63cf9aa893df438aa6111f61a9bbd
+      internalID: -270571283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6206
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad1c8a3348a4a4e8d288e8f7b6dac0
+      internalID: 2098464682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6206
+        width: 152
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04529ef75fa1162468c780cef1e9fd16
+      internalID: 1783009620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 6206
+        width: 264
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44b160d8278e6d4493237e684d7722a
+      internalID: 681653474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 6206
+        width: 315
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb651717617af4d9a99ff77981ec56
+      internalID: 1394645635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6054
+        width: 283
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5fcb9702ef5004b90da867e3d31340
+      internalID: -65011958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c99b3e4cb76640addd3edfbcbe6be
+      internalID: 1692709894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6054
+        width: 207
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce7ef1aa2700d41a0ec09ace7b3f58
+      internalID: -1183415173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 6054
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25006f33560665545bf51cd49edaead9
+      internalID: 1019498583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 6054
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a8874d70d2214d98a5c0e147ab9c7
+      internalID: -37008777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5872
+        width: 152
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950fe36db7dbfa4eb9340e49eafaf6d
+      internalID: -1098237393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5872
+        width: 202
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f168e2b7f013c4a89a02640b9d6f31
+      internalID: -1062139669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 5872
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c69ec645d1f5ea47816b7896dfb23f8
+      internalID: -1357304979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5684
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd9b8d4f74038d4988df48cae1ee9cc
+      internalID: -1957588327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5684
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299e254eb25badc4bb36f3f4601e8732
+      internalID: 1309462264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5683
+        width: 139
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3eece6b4494947ae6cc40c43db284
+      internalID: 2058830009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 5683
+        width: 190
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c035f7c6bbad48b3c82b13d38fcb0
+      internalID: -1001459769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 5683
+        width: 202
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5b5c23b5d7e848b11cd39f0077438
+      internalID: -255932951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 5683
+        width: 184
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b365f71d8022db469e2a5532ceb6074
+      internalID: 114220005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5547
+        width: 152
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e2b7ed2ba9c44994de5a0ed8d6890
+      internalID: 1406617431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5547
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab4982c7ea69bc4ba618f7b286b26ed
+      internalID: -1901270895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 5547
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a032fe4841613447a29b62ec8d55cf2
+      internalID: 1140980279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5319
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52bc6d1ff9376a4aba970a9bed94dad
+      internalID: 1171725561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5319
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bed559d266e8143898038a9cba73e4
+      internalID: 1275366182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5319
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757abec12bd636a4f81f2ce09a7934a4
+      internalID: 820901547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 5319
+        width: 203
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76041e7e4dd31d47b07a94ef6b73984
+      internalID: 1381790044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 5319
+        width: 212
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71edfaa871f24948be2701143584a8c
+      internalID: -371819661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 5319
+        width: 204
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e38b9ad2954ab40acab776fc3f2901
+      internalID: 1971602604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5115
+        width: 207
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e29d2fca458e47a34327d70b62cbf
+      internalID: -1336113198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5115
+        width: 235
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04d166ce21fff43934f3b3ef794c17
+      internalID: -1516447792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 5115
+        width: 245
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be6487242dd46043a26aee3ee450a56
+      internalID: 1680315620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 5115
+        width: 248
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b7880d17480d4e9191fa44515cf61
+      internalID: -26664034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4938
+        width: 247
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a88a892cab16545a86390aa74ce160
+      internalID: 630384088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4938
+        width: 242
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70a6423f0a2504498257f75d57b223
+      internalID: -765112772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4938
+        width: 200
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d0eede35cbbb4194ec221e4286dad
+      internalID: -262530515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 4938
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7d801f4d02f04ebf472c9a4e5bca7
+      internalID: 410154776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 4938
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e0660d088f784a913f38443891ce3
+      internalID: 1664299796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4785
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340330d6206fd4a40980d7c994372ddf
+      internalID: -1646806732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4785
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f521a2000271479a80507185da1a6
+      internalID: 1213089265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4793
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22630385ba2abe45a05fcebd050f69b
+      internalID: -1289424040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4582
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d66771f8340aa48a1cafec44d3a3da
+      internalID: -1898861874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4583
+        width: 134
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd8b33f9766eec4584e6e6f4332bf4e
+      internalID: 857962096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 4586
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4cd37d2656eb47804805cce1832d2
+      internalID: -487856577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4587
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8a09f6a7c8f34fa5fec85ce1ef0d7
+      internalID: -1539736606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 4587
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea32031a7acda640a5de9e9a4110288
+      internalID: -828260238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4584
+        width: 149
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdde4bdb496e0a4aa80af398aa5fedb
+      internalID: 1668188234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4584
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061911d312464b468c013d7943686a8
+      internalID: 1286953331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 4584
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac67f48658c84a448a97901da91ccbb1
+      internalID: 1411043469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4454
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce58046fd5548f4aa5de86bec9c279b
+      internalID: -1230969678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4454
+        width: 129
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b15e6fe9eff2774f82c825ad7d4cc32
+      internalID: -1201393112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4240
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b409c0480229e204896a73652f93a6c8
+      internalID: -2038307827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4240
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90ee027b08b3b408f4b9c4f4013443
+      internalID: 2084733867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4240
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171f5ecb2a055f34e9f4090aa98adf3f
+      internalID: 174249395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4240
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c924999e315e5549846c9c8375fc627
+      internalID: 574370357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4240
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78a1ca91f74d047ae1060d57f7ddd4
+      internalID: 1285830143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 4243
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6323509cab97641a5ebabd87f856d4
+      internalID: -412993593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 4243
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11afc471480141548ac034c18fc59dec
+      internalID: 1870833969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 4242
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae82e8445c16774f81552adba04e27f
+      internalID: 1841078382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4099
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf3f08876c06c146a491721b73f6bf6
+      internalID: 1639624416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4103
+        width: 138
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8edb172ed744c47806e56740e2afd0
+      internalID: -1441871496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3915
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc8299168f5ea40bbfd3d787aef919
+      internalID: -1897028575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3912
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314a30465d42524ea3ed18c10c83e0a
+      internalID: -33490539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2cad0899901fd45a354a4d4cbbaae4
+      internalID: 990321067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf18c540b331e4eb52d85c163bd834
+      internalID: 859030842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d01c8466a995845aa7d117aa1eb6dd
+      internalID: 1723087862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f1fa1d549dbad4d8f77483dfcf3c84
+      internalID: 361359249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973c957c2f58b54c8294875175ca39b
+      internalID: 476172569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69bbb02d2ffb5f48aa608ce76fd732f
+      internalID: -1211894840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c340b194d193e4fb5e669aa3672f66
+      internalID: -1468359501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 3778
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf782e989da7e164483954a0cb1109fc
+      internalID: 1002648478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3623
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201d795bf5470549a6acd7390556703
+      internalID: -1690292836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3623
+        width: 204
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114e9e7f878e584c966d3112881d114
+      internalID: 1911403678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3623
+        width: 134
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be44f8c0a441ad341b855778c2bbb474
+      internalID: 673806524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3423
+        width: 214
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609ae267cddad14ebbe32401ce8beac
+      internalID: 39496331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3547
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772a69cbfdc0a74fac08a12a8f1e8b8
+      internalID: -1609083651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3423
+        width: 231
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21efc77a6ecf00942b5e6ed6632ffc72
+      internalID: 1502842720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3540
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794e769b06f62e4e8e83ecdb177fe48
+      internalID: 1777446499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3422
+        width: 136
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a24a03dafe30d45a35cdbc9b253796
+      internalID: -218092120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3422
+        width: 134
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7318e7234e32c64fb465e930cce109e
+      internalID: -1971337405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3423
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a494bca77a1440840d688ad48d977
+      internalID: -1512485049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3424
+        width: 144
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf315fec37bd0d043aa419fa6afd49bc
+      internalID: 246671701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3336
+        width: 134
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281ce2e05e81224a8b3afe9c28b42d4
+      internalID: 911533269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3176
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84ae7ad5506acd4390e2f253de751fe
+      internalID: -1120982313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3176
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0263327698d949a3003bc02ee7b4e
+      internalID: 1740875679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3176
+        width: 228
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df33586155d2145b48192ac565a168
+      internalID: 2088337811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3176
+        width: 280
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134711bdba291904dbb7691aeea48a8f
+      internalID: -1328296983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 3176
+        width: 247
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c384196849ac124d8cfc44b40c5ca6c
+      internalID: -923602369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8e2ac8430642446a126e03b12631cb
+      internalID: -917061910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3054
+        width: 228
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca6bfb5301cb0448701d8666d86256
+      internalID: 1852056645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3053
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b0d338679aca9478180ab1ad59f0c6
+      internalID: 1230082520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2883
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9c4399fb50ec4fb8f9860c2641b18
+      internalID: 84440552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2883
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18d78cad00ce842a723bc3224d3580
+      internalID: 153106876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2879
+        width: 203
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b18a39ebb94e834694b5be74391773f
+      internalID: -1047524902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2883
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88551305842b734aa0666ccfccd3609
+      internalID: 884663126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2729
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa3898878647d49ba3244a59aea858
+      internalID: 1779299170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2728
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10f6b8ae9b9194a977996230beb3ea
+      internalID: 1065250029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2728
+        width: 192
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca0caa7a186d384bb25d2abca7e78b3
+      internalID: 360861899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2728
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f82c4011b3e5440964214e54abbd72
+      internalID: -297196300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2729
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7037c7eaab2c049b26ba2d71c7a243
+      internalID: 634993328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2537
+        width: 136
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577fa98414b8844696c128b8f7a95e4
+      internalID: -574567436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2537
+        width: 152
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecfa7c6d75fe214d8d255d9db042f33
+      internalID: 1976526362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2537
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd04190860a9243a2cd34731710f50
+      internalID: -161392900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2537
+        width: 200
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f04c055b35ba40ac91af58bb2a817
+      internalID: 1788117894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2537
+        width: 200
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ce808f8c39844e8a014e579d81042
+      internalID: 1821802388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2536
+        width: 241
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6246810e7230e245a0bcf8672fa686d
+      internalID: 301180785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2404
+        width: 238
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a8144d3792144781bf43a9f56b2b2
+      internalID: 1573455414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2404
+        width: 237
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f964e7567bd0a14ea1b113b60cfba45
+      internalID: 486106359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2404
+        width: 238
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17011ee4c24bba4eaad83fb10cce1c3
+      internalID: -1067534097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2404
+        width: 239
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966ae91e31bd0842a46960d38f331b9
+      internalID: -2093404495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2278
+        width: 220
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d24f422480e34094e0f6b20b4b68a
+      internalID: 1927512415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2278
+        width: 200
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8784f52ef745693478421a7c83edefc0
+      internalID: -359736268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2278
+        width: 152
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0398997f336004da9c0473670e1b5c
+      internalID: 1707178703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2278
+        width: 136
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86181f0f54aa8243bfbe0d6701c7499
+      internalID: 885901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2044
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96b07e84bcdc149b4af1d432421145
+      internalID: -157599692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2044
+        width: 133
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c8ba1318972f3428f318d03f9fb654
+      internalID: 155513550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2044
+        width: 127
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0acd823fc2a0247939de3979e66c61
+      internalID: 1509349211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2077
+        width: 153
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2098b59a53e7a364fa4f8f3ecf90ca00
+      internalID: 1972004384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2088
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a320cb4e21512f4ca283b453eeff9a0
+      internalID: 1129838187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2106
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a044e32fa0a4b434aaf4d15a1420bd93
+      internalID: -1377268709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2087
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93def8e773252aa4598db427f3934598
+      internalID: 1834854156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1888
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869defe0c01ed944f8ae058be76b6f1c
+      internalID: -834982591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1887
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b59d95348d1fb429978e9ecfcd0e1b
+      internalID: 1012450213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1887
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e81e33fd5c23244bc9dd187de7938f
+      internalID: -27934966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1885
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c12f83a74535b642ac3f7046510ff9f
+      internalID: -477212291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1747
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322cb5843b9f9994280f8a443862ef87
+      internalID: 925118765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1745
+        width: 191
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599318c70a2945b479b9054839949cdd
+      internalID: -1441818511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1747
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f5dffaed9a7d4f9fde59145428998
+      internalID: 859728105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1744
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83fb3351bc6b164e97628f10e1b673a
+      internalID: -2146365045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1697
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a874e34a4087e4dbc5722399c8e7ec
+      internalID: -315084222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1557
+        width: 180
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7bbc87ec85d049a61c996b2d7f1b5
+      internalID: 2125877229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1690
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca3eefcc7cb4aa4699ee44ed079e194
+      internalID: -1701541197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1572
+        width: 113
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531f955f8b4a9a4495ea813bf5ec2d3
+      internalID: -2007098932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1557
+        width: 117
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75739cd7265c849a9dbdb9bd6ae892
+      internalID: -1076021248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1557
+        width: 198
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdbc2cd7e2dba14ead4abfc7759e1b9
+      internalID: -1166575686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1557
+        width: 141
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84557ba5846aa644aea92cd04c9feb2
+      internalID: -588360105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1565
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d5936430545b429b0690d46880b91
+      internalID: 1961627889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1542
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10736a17b695ec94c8ea9521ac95d618
+      internalID: 1181289072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1371
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8bdee20883cb419497ec56dd1d3f1
+      internalID: 1044491585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1371
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de0a400e2a1a04ab5d2efaf8e4a0b5
+      internalID: -122187668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1375
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d159831c814c34393d973dc036bd9f
+      internalID: 677019620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1351
+        width: 194
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84826169d526f46b44268a36ac8593
+      internalID: -1872464356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1366
+        width: 176
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7713172182881408df2d35f9b1c12b
+      internalID: -714995101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1372
+        width: 194
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c08d96adae5c845aae6b9b217b0051
+      internalID: -903301434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1366
+        width: 210
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e6ffc6b2fbc7f45b7cff7c738ef0d2
+      internalID: -183885075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1231
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab59b7b733bb424997f2b286bb2a3f2
+      internalID: 1616364634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1236
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24643c8440dd246b02635a9dc43fad
+      internalID: -1252683719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1232
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8c77b0621e8243b489fd233474bf0
+      internalID: -1452546758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1232
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9daab31b0a4ad45a14a0aaf8fae745
+      internalID: -464527751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1075
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5895167a524374eaba2c8c25e26780
+      internalID: -934915338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1068
+        width: 202
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e48303d1e9672448392445a6defdbf
+      internalID: 1621372446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1075
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a46885d50776d41a3a465f52e69643
+      internalID: 335001871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1081
+        width: 158
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda6901387111604a8de78acf7158c35
+      internalID: 122967491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 877
+        width: 143
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e090e51386eb4199bb929d35e44c0
+      internalID: -1143252573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 877
+        width: 142
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68848305239f8469bd369f3d3be725
+      internalID: -1024374613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 861
+        width: 177
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1242cdd01f693428d346e06f45a7c1
+      internalID: -1660635777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 867
+        width: 173
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524c1d2ddc2ed24dad03c3c82fce381
+      internalID: 989526240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 877
+        width: 143
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045b168dfe37b5449b8dffa5456d3dc
+      internalID: -545698609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 878
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e83a7d015f9ff14594a362c2e5455c9
+      internalID: -505355993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 667
+        width: 116
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bdf8af064a6024295bac3b16cc12de
+      internalID: 148873551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 665
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eef7575ee93094796f77be0a126667
+      internalID: -258085632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 665
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb2aa6ab9c64604c8ca65510ec6c5f0
+      internalID: 1298204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 665
+        width: 127
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a689d751da7a4bbdbe7c817a7eabd
+      internalID: 591505913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 651
+        width: 236
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dfcdbff25e94448804a1fd17b23767
+      internalID: 1269513729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 651
+        width: 235
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7389927f79e5424d9696b076cb6548a
+      internalID: 709448610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 456
+        width: 231
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e2326db232c18499ef9da2ec8f77a7
+      internalID: -1272733924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 456
+        width: 228
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2edf3650f831340be519908e092c33
+      internalID: -988980555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 458
+        width: 222
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980824bc1e39cc4c94c3db0d1c918c3
+      internalID: 1968512900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 439
+        width: 212
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dccefd5096ee64590a05be17597791
+      internalID: -942200801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 439
+        width: 215
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dc1013329c7e428890525a085c054
+      internalID: -1208776136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 214
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c6c76fb2598e4ebbd21e6d3205a9f
+      internalID: 914364505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 252
+        width: 209
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1984491b01b7249b7bb56ab78352b2
+      internalID: -2129937704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 258
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945fab15cc403643b11f0becd40c8e4
+      internalID: -716290639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 260
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308e41c0b851964b9025a9e0c7159b8
+      internalID: -1338546605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 282
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407b5df614742f46aed1f20283b9453
+      internalID: 1412070530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 291
+        width: 116
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194a25f5d659ed84dbb5b606c10a099a
+      internalID: 2003535221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09393ad86f9a117419b3b5b161af79f4
+      internalID: 1982428261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 152
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487de9b04ce90604688e0b7c14b5b85a
+      internalID: -1676136705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 82
+        width: 173
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d78bc4a74461614f951dbebcbd9a4e5
+      internalID: -1009932072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 82
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad0ecdba6716c4283c4e4e70a37512
+      internalID: 938713423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 81
+        width: 175
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9aae1c397f64e4e8dacc325ef90b0f
+      internalID: 462251676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 83
+        width: 154
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9aefa0664062b48923e49c8b19054a
+      internalID: 1351618230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 181
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150232bfc6896a4eabcf78682dd7650
+      internalID: 1569399136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 196
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18611c5b7bd5224cb54514254768182
+      internalID: 950281249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_white_spriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ace65f42021d4d830a615ad4de238
+      internalID: 366205735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      venom_white_spriteSheet_0: -298064699
+      venom_white_spriteSheet_1: 1463463868
+      venom_white_spriteSheet_10: -438684
+      venom_white_spriteSheet_100: 1870833969
+      venom_white_spriteSheet_101: 1841078382
+      venom_white_spriteSheet_102: 1639624416
+      venom_white_spriteSheet_103: -1441871496
+      venom_white_spriteSheet_104: -1897028575
+      venom_white_spriteSheet_105: -33490539
+      venom_white_spriteSheet_106: 990321067
+      venom_white_spriteSheet_107: 859030842
+      venom_white_spriteSheet_108: 1723087862
+      venom_white_spriteSheet_109: 361359249
+      venom_white_spriteSheet_11: -628684552
+      venom_white_spriteSheet_110: 476172569
+      venom_white_spriteSheet_111: -1211894840
+      venom_white_spriteSheet_112: -1468359501
+      venom_white_spriteSheet_113: 1002648478
+      venom_white_spriteSheet_114: -1690292836
+      venom_white_spriteSheet_115: 1911403678
+      venom_white_spriteSheet_116: 673806524
+      venom_white_spriteSheet_117: 39496331
+      venom_white_spriteSheet_118: -1609083651
+      venom_white_spriteSheet_119: 1502842720
+      venom_white_spriteSheet_12: 1709373846
+      venom_white_spriteSheet_120: 1777446499
+      venom_white_spriteSheet_121: -218092120
+      venom_white_spriteSheet_122: -1971337405
+      venom_white_spriteSheet_123: -1512485049
+      venom_white_spriteSheet_124: 246671701
+      venom_white_spriteSheet_125: 911533269
+      venom_white_spriteSheet_126: -1120982313
+      venom_white_spriteSheet_127: 1740875679
+      venom_white_spriteSheet_128: 2088337811
+      venom_white_spriteSheet_129: -1328296983
+      venom_white_spriteSheet_13: -96912024
+      venom_white_spriteSheet_130: -923602369
+      venom_white_spriteSheet_131: -917061910
+      venom_white_spriteSheet_132: 1852056645
+      venom_white_spriteSheet_133: 1230082520
+      venom_white_spriteSheet_134: 84440552
+      venom_white_spriteSheet_135: 153106876
+      venom_white_spriteSheet_136: -1047524902
+      venom_white_spriteSheet_137: 884663126
+      venom_white_spriteSheet_138: 1779299170
+      venom_white_spriteSheet_139: 1065250029
+      venom_white_spriteSheet_14: -1384377448
+      venom_white_spriteSheet_140: 360861899
+      venom_white_spriteSheet_141: -297196300
+      venom_white_spriteSheet_142: 634993328
+      venom_white_spriteSheet_143: -574567436
+      venom_white_spriteSheet_144: 1976526362
+      venom_white_spriteSheet_145: -161392900
+      venom_white_spriteSheet_146: 1788117894
+      venom_white_spriteSheet_147: 1821802388
+      venom_white_spriteSheet_148: 301180785
+      venom_white_spriteSheet_149: 1573455414
+      venom_white_spriteSheet_15: 1951412019
+      venom_white_spriteSheet_150: 486106359
+      venom_white_spriteSheet_151: -1067534097
+      venom_white_spriteSheet_152: -2093404495
+      venom_white_spriteSheet_153: 1927512415
+      venom_white_spriteSheet_154: -359736268
+      venom_white_spriteSheet_155: 1707178703
+      venom_white_spriteSheet_156: 885901353
+      venom_white_spriteSheet_157: -157599692
+      venom_white_spriteSheet_158: 155513550
+      venom_white_spriteSheet_159: 1509349211
+      venom_white_spriteSheet_16: 563871019
+      venom_white_spriteSheet_160: 1972004384
+      venom_white_spriteSheet_161: 1129838187
+      venom_white_spriteSheet_162: -1377268709
+      venom_white_spriteSheet_163: 1834854156
+      venom_white_spriteSheet_164: -834982591
+      venom_white_spriteSheet_165: 1012450213
+      venom_white_spriteSheet_166: -27934966
+      venom_white_spriteSheet_167: -477212291
+      venom_white_spriteSheet_168: 925118765
+      venom_white_spriteSheet_169: -1441818511
+      venom_white_spriteSheet_17: -1407365805
+      venom_white_spriteSheet_170: 859728105
+      venom_white_spriteSheet_171: -2146365045
+      venom_white_spriteSheet_172: -315084222
+      venom_white_spriteSheet_173: 2125877229
+      venom_white_spriteSheet_174: -1701541197
+      venom_white_spriteSheet_175: -2007098932
+      venom_white_spriteSheet_176: -1076021248
+      venom_white_spriteSheet_177: -1166575686
+      venom_white_spriteSheet_178: -588360105
+      venom_white_spriteSheet_179: 1961627889
+      venom_white_spriteSheet_18: 1822964722
+      venom_white_spriteSheet_180: 1181289072
+      venom_white_spriteSheet_181: 1044491585
+      venom_white_spriteSheet_182: -122187668
+      venom_white_spriteSheet_183: 677019620
+      venom_white_spriteSheet_184: -1872464356
+      venom_white_spriteSheet_185: -714995101
+      venom_white_spriteSheet_186: -903301434
+      venom_white_spriteSheet_187: -183885075
+      venom_white_spriteSheet_188: 1616364634
+      venom_white_spriteSheet_189: -1252683719
+      venom_white_spriteSheet_19: -105103881
+      venom_white_spriteSheet_190: -1452546758
+      venom_white_spriteSheet_191: -464527751
+      venom_white_spriteSheet_192: -934915338
+      venom_white_spriteSheet_193: 1621372446
+      venom_white_spriteSheet_194: 335001871
+      venom_white_spriteSheet_195: 122967491
+      venom_white_spriteSheet_196: -1143252573
+      venom_white_spriteSheet_197: -1024374613
+      venom_white_spriteSheet_198: -1660635777
+      venom_white_spriteSheet_199: 989526240
+      venom_white_spriteSheet_2: 423610235
+      venom_white_spriteSheet_20: -432633807
+      venom_white_spriteSheet_200: -545698609
+      venom_white_spriteSheet_201: -505355993
+      venom_white_spriteSheet_202: 148873551
+      venom_white_spriteSheet_203: -258085632
+      venom_white_spriteSheet_204: 1298204116
+      venom_white_spriteSheet_205: 591505913
+      venom_white_spriteSheet_206: 1269513729
+      venom_white_spriteSheet_207: 709448610
+      venom_white_spriteSheet_208: -1272733924
+      venom_white_spriteSheet_209: -988980555
+      venom_white_spriteSheet_21: -1419550937
+      venom_white_spriteSheet_210: 1968512900
+      venom_white_spriteSheet_211: -942200801
+      venom_white_spriteSheet_212: -1208776136
+      venom_white_spriteSheet_213: 914364505
+      venom_white_spriteSheet_214: -2129937704
+      venom_white_spriteSheet_215: -716290639
+      venom_white_spriteSheet_216: -1338546605
+      venom_white_spriteSheet_217: 1412070530
+      venom_white_spriteSheet_218: 2003535221
+      venom_white_spriteSheet_219: 1982428261
+      venom_white_spriteSheet_22: -296597324
+      venom_white_spriteSheet_220: -1676136705
+      venom_white_spriteSheet_221: -1009932072
+      venom_white_spriteSheet_222: 938713423
+      venom_white_spriteSheet_223: 462251676
+      venom_white_spriteSheet_224: 1351618230
+      venom_white_spriteSheet_225: 1569399136
+      venom_white_spriteSheet_226: 950281249
+      venom_white_spriteSheet_227: 366205735
+      venom_white_spriteSheet_23: 1466540262
+      venom_white_spriteSheet_24: 936747362
+      venom_white_spriteSheet_25: -485554606
+      venom_white_spriteSheet_26: -1697420720
+      venom_white_spriteSheet_27: -1761488408
+      venom_white_spriteSheet_28: 1209324215
+      venom_white_spriteSheet_29: -423318610
+      venom_white_spriteSheet_3: -1800438167
+      venom_white_spriteSheet_30: -1888304153
+      venom_white_spriteSheet_31: -746388097
+      venom_white_spriteSheet_32: 446028104
+      venom_white_spriteSheet_33: 116631459
+      venom_white_spriteSheet_34: 1350150359
+      venom_white_spriteSheet_35: 1220684700
+      venom_white_spriteSheet_36: 2105644901
+      venom_white_spriteSheet_37: 763694250
+      venom_white_spriteSheet_38: 1793943493
+      venom_white_spriteSheet_39: 986097676
+      venom_white_spriteSheet_4: -242297695
+      venom_white_spriteSheet_40: 954494757
+      venom_white_spriteSheet_41: -2005831526
+      venom_white_spriteSheet_42: 1097261632
+      venom_white_spriteSheet_43: -350219358
+      venom_white_spriteSheet_44: -270571283
+      venom_white_spriteSheet_45: 2098464682
+      venom_white_spriteSheet_46: 1783009620
+      venom_white_spriteSheet_47: 681653474
+      venom_white_spriteSheet_48: 1394645635
+      venom_white_spriteSheet_49: -65011958
+      venom_white_spriteSheet_5: -532964339
+      venom_white_spriteSheet_50: 1692709894
+      venom_white_spriteSheet_51: -1183415173
+      venom_white_spriteSheet_52: 1019498583
+      venom_white_spriteSheet_53: -37008777
+      venom_white_spriteSheet_54: -1098237393
+      venom_white_spriteSheet_55: -1062139669
+      venom_white_spriteSheet_56: -1357304979
+      venom_white_spriteSheet_57: -1957588327
+      venom_white_spriteSheet_58: 1309462264
+      venom_white_spriteSheet_59: 2058830009
+      venom_white_spriteSheet_6: 1309002773
+      venom_white_spriteSheet_60: -1001459769
+      venom_white_spriteSheet_61: -255932951
+      venom_white_spriteSheet_62: 114220005
+      venom_white_spriteSheet_63: 1406617431
+      venom_white_spriteSheet_64: -1901270895
+      venom_white_spriteSheet_65: 1140980279
+      venom_white_spriteSheet_66: 1171725561
+      venom_white_spriteSheet_67: 1275366182
+      venom_white_spriteSheet_68: 820901547
+      venom_white_spriteSheet_69: 1381790044
+      venom_white_spriteSheet_7: 1499747420
+      venom_white_spriteSheet_70: -371819661
+      venom_white_spriteSheet_71: 1971602604
+      venom_white_spriteSheet_72: -1336113198
+      venom_white_spriteSheet_73: -1516447792
+      venom_white_spriteSheet_74: 1680315620
+      venom_white_spriteSheet_75: -26664034
+      venom_white_spriteSheet_76: 630384088
+      venom_white_spriteSheet_77: -765112772
+      venom_white_spriteSheet_78: -262530515
+      venom_white_spriteSheet_79: 410154776
+      venom_white_spriteSheet_8: 853841238
+      venom_white_spriteSheet_80: 1664299796
+      venom_white_spriteSheet_81: -1646806732
+      venom_white_spriteSheet_82: 1213089265
+      venom_white_spriteSheet_83: -1289424040
+      venom_white_spriteSheet_84: -1898861874
+      venom_white_spriteSheet_85: 857962096
+      venom_white_spriteSheet_86: -487856577
+      venom_white_spriteSheet_87: -1539736606
+      venom_white_spriteSheet_88: -828260238
+      venom_white_spriteSheet_89: 1668188234
+      venom_white_spriteSheet_9: -322379395
+      venom_white_spriteSheet_90: 1286953331
+      venom_white_spriteSheet_91: 1411043469
+      venom_white_spriteSheet_92: -1230969678
+      venom_white_spriteSheet_93: -1201393112
+      venom_white_spriteSheet_94: -2038307827
+      venom_white_spriteSheet_95: 2084733867
+      venom_white_spriteSheet_96: 174249395
+      venom_white_spriteSheet_97: 574370357
+      venom_white_spriteSheet_98: 1285830143
+      venom_white_spriteSheet_99: -412993593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
